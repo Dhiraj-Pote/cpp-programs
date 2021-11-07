@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\dhira\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "files.associations": {
+        "ctime": "cpp",
+        "cstdio": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
